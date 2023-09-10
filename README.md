@@ -26,6 +26,6 @@ The aim of this project; It means learning to use UseEffect and using it effecti
 https://user-useeffect-react.netlify.app/
 ### At the end of the project, following topics are to be covered;
 - HTML
-- Bootstrap
+- BOOTSTRAP
 - JS
 - ReactJS
